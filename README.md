@@ -1,6 +1,6 @@
 # EC-Conf: An Ultra-fast Diffusion Model for Molecular conformation Generation with Equivariant Consistency
 
-[[OpenReview](https://openreview.net/forum?id=370Bvdd3z7)] [[arXiv](https://arxiv.org/abs/2308.00237)] [[Code](https://github.com/zhi520/EcConf)]
+
 
 
 
@@ -138,19 +138,9 @@ CUDA_VISIBLE_DEVICES=0 python multistep_sample.py
 
 ## Citation
 Please consider citing the our paper if you find it helpful. Thank you!
-```
-@misc{fan2023ecconf,
-      title={EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency}, 
-      author={Zhiguang Fan and Yuedong Yang and Mingyuan Xu and Hongming Chen},
-      year={2023},
-      eprint={2308.00237},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.BM}
-}
-```
+
 
 
 
 ## Contact
 
-If you have any question, please contact me at fanzhg5@mail2.sysu.edu.cn.
