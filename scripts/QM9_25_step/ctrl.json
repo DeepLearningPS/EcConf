@@ -1,0 +1,10 @@
+{
+    "atom_types":[6,7,8,9],
+    "max_atoms":9,
+    "batchsize":1024,
+    "if_chiral":false,
+    "random_step":5,
+    "loss_mod":"IC",
+    "final_timesteps":25
+    
+}
